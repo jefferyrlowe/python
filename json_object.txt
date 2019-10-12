@@ -1,0 +1,15 @@
+
+
+{"name" : "test_name",
+"tags" : "test tags",
+"description" : "test desc",
+"type" : "database",
+"dbType" : "Oracle",
+"authType" : "password",
+"password" : "temp1233PWD",
+"login" : "tenable_user",
+"oracleAuthType" : "normal",
+"oracle_service_type" : "SID",
+"sid" : "test1dv",
+"port" : "1521"}
+	
