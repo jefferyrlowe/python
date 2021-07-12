@@ -28,8 +28,8 @@ oraDb='Empty'
 transport=''
 username = ""
 userpwd = ""
-username = ""
-userpwd = ""
+username = "C##PSDBA"
+userpwd = "AspwwcfPSdba#1o2o19"
 
 dba = ""
 dbb = ""
